@@ -1,0 +1,23 @@
+{
+   "localInterface": "Vlan4094",
+   "systemId": "76:83:ef:ed:66:5d",
+   "domainId": "MLAG_CTRLVLAN",
+   "peerLink": "Port-Channel2000",
+   "dualPrimaryDetectionState": "disabled",
+   "localIntfStatus": "up",
+   "peerLinkStatus": "up",
+   "peerAddress": "192.168.255.2",
+   "configSanity": "consistent",
+   "portsErrdisabled": false,
+   "state": "active",
+   "reloadDelay": 600,
+   "reloadDelayNonMlag": 600,
+   "negStatus": "connected",
+   "mlagPorts": {
+      "Disabled": 0,
+      "Active-partial": 0,
+      "Inactive": 18,
+      "Configured": 0,
+      "Active-full": 1
+   }
+}

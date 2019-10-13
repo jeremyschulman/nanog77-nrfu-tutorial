@@ -1,0 +1,302 @@
+[
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet1",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "pair-peer",
+         "speed": 10,
+         "lag": "Port-Channel2000"
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet15",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "leaf-access",
+         "speed": 10,
+         "lag": "Port-Channel10"
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet2",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "pair-peer",
+         "speed": 10,
+         "lag": "Port-Channel2000"
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet29",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "leaf-access",
+         "speed": 10,
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet30",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "leaf-access",
+         "speed": 10,
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet31",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "leaf-access",
+         "speed": 10,
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet32",
+         "ctype": "smf",
+         "optic": "SFP-10G-LR",
+         "ptype": "sfp",
+         "role": "leaf-access",
+         "speed": 10,
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet33/1",
+         "ptype": "qsfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet34/1",
+         "ptype": "qsfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet4",
+         "ctype": "cat6",
+         "optic": "SFP-1G-T",
+         "ptype": "sfp",
+         "role": "oob-meraki",
+         "speed": 1,
+         "switchport_mode": "trunk",
+         "switchport_native_vlan": "OOBMGMT",
+         "trunk-all": true,
+         "vlans": [
+            "OOBMGMT"
+         ]
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet6",
+         "ptype": "sfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet7",
+         "ptype": "sfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet8",
+         "ptype": "sfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Ethernet9",
+         "ptype": "sfp",
+         "unused": true
+      },
+      "expected": {
+         "state": "down"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Loopback0",
+         "ptype": "loopback",
+         "role": "loopback",
+         "ip_addrs": [
+            {
+               "name": "10.127.255.87/32",
+               "role": "loopback",
+               "rt": "global",
+               "version": 4
+            }
+         ]
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Management1",
+         "ctype": "cat6",
+         "optic": "none",
+         "ptype": "rj45",
+         "role": "management",
+         "ip_addrs": [
+            {
+               "name": "172.30.51.23/23",
+               "role": "management",
+               "rt": "global",
+               "version": 4
+            }
+         ]
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Port-Channel10",
+         "mlag": true,
+         "pool": "leaf-access",
+         "ptype": "lag",
+         "switchport_mode": "trunk"
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Vlan4094",
+         "ptype": "vlan",
+         "role": "mlag-peer",
+         "vlan_id": 4094,
+         "ip_addrs": [
+            {
+               "link": true,
+               "name": "10.127.253.147/31",
+               "role": "mlag-peer",
+               "rt": "global",
+               "version": 4
+            }
+         ]
+      },
+      "expected": {
+         "state": "up"
+      }
+   },
+   {
+      "test-case": "test-interface-status",
+      "dut": "dev1",
+      "params": {
+         "interface": "Port-Channel2000",
+         "ptype": "lag",
+         "role": "pair-peer",
+         "vlans": [
+            "MLAG_CTRLVLAN"
+         ],
+         "lacp-mode": "active"
+      },
+      "expected": {
+         "state": "up"
+      }
+   }
+]

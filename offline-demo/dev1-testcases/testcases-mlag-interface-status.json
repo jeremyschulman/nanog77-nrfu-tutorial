@@ -1,0 +1,38 @@
+[
+    {
+        "test-case": "test-mlag-interface-status",
+        "dut": "switch-A",
+        "params": {
+            "mlag": "300",
+            "interface": "Port-Channel300",
+            "peer_interface": "Port-Channel300"
+        },
+        "expected": {
+            "state": "down"
+        }
+    },
+    {
+        "test-case": "test-mlag-interface-status",
+        "dut": "switch-A",
+        "params": {
+            "mlag": "301",
+            "interface": "Port-Channel301",
+            "peer_interface": "Port-Channel301"
+        },
+        "expected": {
+            "state": "up"
+        }
+    },
+    {
+        "test-case": "test-mlag-interface-status",
+        "dut": "switch-A",
+        "params": {
+            "mlag": "302",
+            "interface": "Port-Channel302",
+            "peer_interface": "Port-Channel302"
+        },
+        "expected": {
+            "state": "up"
+        }
+    }
+]

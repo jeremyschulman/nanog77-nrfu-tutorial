@@ -1,0 +1,28 @@
+{
+    "interfaces": {
+        "300": {
+            "localInterface": "Port-Channel300",
+            "peerInterface": "Port-Channel300",
+            "peerInterfaceStatus": "down",
+            "localInterfaceStatus": "down",
+            "status": "inactive",
+            "localInterfaceDescription": "server-A"
+        },
+        "301": {
+            "localInterface": "Port-Channel301",
+            "peerInterface": "Port-Channel301",
+            "peerInterfaceStatus": "up",
+            "localInterfaceStatus": "up",
+            "status": "active-full",
+            "localInterfaceDescription": "server-B"
+        },
+        "302": {
+            "localInterface": "Port-Channel302",
+            "peerInterface": "Port-Channel302",
+            "peerInterfaceStatus": "up",
+            "localInterfaceStatus": "up",
+            "status": "active-full",
+            "localInterfaceDescription": "server-C"
+        }
+    }
+}

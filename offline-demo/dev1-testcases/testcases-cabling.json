@@ -1,0 +1,50 @@
+[
+   {
+      "test-case": "test-cabling",
+      "dut": "switch-2105.bld1",
+      "params": {
+         "interface": "Ethernet49/1",
+         "role": "spine-leaf"
+      },
+      "expected": {
+         "remote-hostname": "switch-21.bld1",
+         "remote-interface": "Ethernet3/1"
+      }
+   },
+   {
+      "test-case": "test-cabling",
+      "dut": "switch-2105.bld1",
+      "params": {
+         "interface": "Ethernet50/1",
+         "role": "spine-leaf"
+      },
+      "expected": {
+         "remote-hostname": "switch-22.bld1",
+         "remote-interface": "Ethernet3/1"
+      }
+   },
+   {
+      "test-case": "test-cabling",
+      "dut": "switch-2105.bld1",
+      "params": {
+         "interface": "Ethernet59/1",
+         "role": "peer-pair"
+      },
+      "expected": {
+         "remote-hostname": "switch-2106.bld1",
+         "remote-interface": "Ethernet59/1"
+      }
+   },
+   {
+      "test-case": "test-cabling",
+      "dut": "switch-2105.bld1",
+      "params": {
+         "interface": "Ethernet60/1",
+         "role": "peer-pair"
+      },
+      "expected": {
+         "remote-hostname": "switch-2106.bld1",
+         "remote-interface": "Ethernet60/1"
+      }
+   }
+]

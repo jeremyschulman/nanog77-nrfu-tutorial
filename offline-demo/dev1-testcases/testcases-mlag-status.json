@@ -1,0 +1,16 @@
+[
+   {
+      "test-case": "test-mlag-status",
+      "dut": "dev1",
+      "params": {
+         "peer_link": "Port-Channel2000",
+         "peer_ip": "10.127.253.146",
+         "vlan_name": "MLAG_CTRLVLAN",
+         "vlan_id": 4094,
+         "vlan_ipif": "10.127.253.147/31"
+      },
+      "expected": {
+         "state": "up"
+      }
+   }
+]

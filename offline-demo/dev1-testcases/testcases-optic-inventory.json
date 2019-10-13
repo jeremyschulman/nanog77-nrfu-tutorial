@@ -1,0 +1,35 @@
+[
+   {
+      "test-case": "test-optic-inventory",
+      "dut": "dummy",
+      "params": {
+         "interface": "Ethernet50/1",
+         "role": "firewall-backup-extern"
+      },
+      "expected": {
+         "optic": "QSFP28-LR4-100G"
+      }
+   },
+   {
+      "test-case": "test-optic-inventory",
+      "dut": "dummy",
+      "params": {
+         "interface": "Ethernet49/1",
+         "role": "firewall-backup-extern"
+      },
+      "expected": {
+         "optic": "QSFP28-LR4-100G"
+      }
+   },
+   {
+      "test-case": "test-optic-inventory",
+      "dut": "dummy",
+      "params": {
+         "interface": "Ethernet12",
+         "role": "firewall-backup-extern"
+      },
+      "expected": {
+         "optic": ""
+      }
+   }
+]

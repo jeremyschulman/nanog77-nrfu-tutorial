@@ -1,0 +1,422 @@
+{
+   "fpgas": {},
+   "storageDevices": {},
+   "xcvrSlots": {
+      "56": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "28": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "29": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "60": {
+         "modelName": "QSFP28-LR4-100G",
+         "serialNum": "G1807348871",
+         "mfgName": "Arista Networks",
+         "hardwareRev": "01"
+      },
+      "35": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "32": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "24": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "25": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "26": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "27": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "20": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "21": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "22": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "23": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "46": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "47": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "44": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "45": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "42": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "43": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "40": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "41": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "1": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "3": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "2": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "5": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "4": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "7": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "6": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "9": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "8": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "18": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "13": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "34": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "38": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "30": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "15": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "14": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "11": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "10": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "39": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "12": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "59": {
+         "modelName": "",
+         "serialNum": "G1807348750",
+         "mfgName": "Arista Networks",
+         "hardwareRev": "01"
+      },
+      "58": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "17": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "16": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "19": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "54": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "31": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "49": {
+         "modelName": "QSFP28-LR4-100G",
+         "serialNum": "G1807348872",
+         "mfgName": "Arista Networks",
+         "hardwareRev": "01"
+      },
+      "51": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "36": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "53": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "52": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "33": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "55": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "37": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "48": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "57": {
+         "modelName": "",
+         "serialNum": "",
+         "mfgName": "Not Present",
+         "hardwareRev": ""
+      },
+      "50": {
+         "modelName": "QSFP28-LR4-100G",
+         "serialNum": "G1807348758",
+         "mfgName": "Arista Networks",
+         "hardwareRev": "01"
+      }
+   },
+   "portCount": 97,
+   "switchedBootstrapPortCount": 4,
+   "managementPortCount": 1,
+   "dataLinkPortCount": 0,
+   "emmcFlashDevices": {
+      "Toshiba 008G70": {
+         "serialNum": "d163b950",
+         "storageSize": 7,
+         "firmwareRev": "0.0"
+      }
+   },
+   "cardSlots": {},
+   "internalPortCount": 0,
+   "powerSupplySlots": {
+      "1": {
+         "name": "PWR-500AC-F",
+         "serialNum": "DDQT91A1UTU"
+      },
+      "2": {
+         "name": "PWR-500AC-F",
+         "serialNum": "DDQT91A1UJK"
+      }
+   },
+   "fanTraySlots": {
+      "1": {
+         "serialNum": "N/A",
+         "numFans": 1,
+         "name": "FAN-7000H-F"
+      },
+      "3": {
+         "serialNum": "N/A",
+         "numFans": 1,
+         "name": "FAN-7000H-F"
+      },
+      "2": {
+         "serialNum": "N/A",
+         "numFans": 1,
+         "name": "FAN-7000H-F"
+      },
+      "4": {
+         "serialNum": "N/A",
+         "numFans": 1,
+         "name": "FAN-7000H-F"
+      }
+   },
+   "systemInformation": {
+      "name": "DCS-7050SX3-48YC12",
+      "description": "48x25GbE SFP + 12x100GbE QSFP Switch",
+      "mfgDate": "2019-03-23",
+      "hardwareRev": "11.04",
+      "hwEpoch": "01.00",
+      "serialNum": "JPE18524048"
+   },
+   "unconnectedPortCount": 0,
+   "switchedPortCount": 92,
+   "switchedFortyGOnlyPortCount": 0
+}

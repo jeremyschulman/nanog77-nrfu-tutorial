@@ -1,0 +1,15 @@
+[
+   {
+      "test-case": "test-lag-status",
+      "dut": "dev1",
+      "params": {
+         "name": "Port-Channel2000"
+      },
+      "expected": {
+         "interfaces": [
+            "Ethernet51",
+            "Ethernet52"
+         ]
+      }
+   }
+]

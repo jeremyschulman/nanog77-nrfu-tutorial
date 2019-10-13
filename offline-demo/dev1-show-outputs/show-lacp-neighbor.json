@@ -1,0 +1,43 @@
+{
+   "portChannels": {
+      "Port-Channel2000": {
+         "interfaces": {
+            "Ethernet51": {
+               "partnerPortPriority": 32768,
+               "partnerPortState": {
+                  "collecting": true,
+                  "distributing": true,
+                  "synchronization": true,
+                  "defaulted": false,
+                  "timeout": false,
+                  "activity": true,
+                  "expired": false,
+                  "aggregation": true
+               },
+               "partnerSystemId": "8000,76-83-ef-ed-66-5d",
+               "partnerOperKey": "0x000a",
+               "actorPortStatus": "bundled",
+               "partnerPortId": 15
+            },
+            "Ethernet52": {
+               "partnerPortPriority": 32768,
+               "partnerPortState": {
+                  "collecting": true,
+                  "distributing": true,
+                  "synchronization": true,
+                  "defaulted": false,
+                  "timeout": false,
+                  "activity": true,
+                  "expired": false,
+                  "aggregation": true
+               },
+               "partnerSystemId": "8000,76-83-ef-ed-66-5d",
+               "partnerOperKey": "0x000a",
+               "actorPortStatus": "bundled",
+               "partnerPortId": 32783
+            }
+         }
+      }
+   },
+   "orphanPorts": {}
+}
